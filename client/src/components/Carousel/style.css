@@ -1,0 +1,33 @@
+img{
+  opacity: 0.75;
+}
+
+.carousel-wrapper .slide .legend {
+  opacity: 1;
+  background: none !important
+}
+
+/* .carousel-wrapper .slide p .legend {
+  font-size: 50px;
+} */
+
+
+.carousel-wrapper{
+  width: 60%;
+  margin: 20px auto;
+  padding: 0 20px 
+}
+
+p {
+  font-size: 17px;
+  font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+  font-size: 25px;
+  font-family: 'Roboto', sans-serif;
+}
+
+body{
+  background-image: url("./background.jpg");
+}
